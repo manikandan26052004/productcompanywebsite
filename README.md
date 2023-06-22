@@ -707,8 +707,9 @@ display: block;
 ## OUTPUT:
 
 ### Home Page:
+![web pic7](https://github.com/manikandan26052004/productcompanywebsite/assets/121999845/c874a5c4-f7b3-4895-973d-c96c48bd517c)
 
-![output](./images/homepage.jpg)
+
 
 ## Result:
 
